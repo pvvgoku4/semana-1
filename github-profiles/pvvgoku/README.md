@@ -6,7 +6,7 @@ https://githum.com/pvvgoku
 Ingeniero en el area de Sistemas, aparte de programador me gusta la Electronica, El ensamble de Computadoras
 y los equipos antiguos.
 
-# Educacion
+## Educacion
 Bachiller en Ciencias graduado en 1999
 Graduado del Instituto Tecnologico de Venezuela en 2003
 
@@ -29,7 +29,7 @@ https://www.youtube.com/channel/UCqAcRY07wXaO3445gwe6fJQ
 ## E-mail
 pasqualevallettavalente@gmail.com
 
-# Comandos de la Terminal
+## Comandos de la Terminal
 | Comando | Descripción               |
 |---------|---------------------------|
 | ls      | Lista el contenido        |
@@ -39,7 +39,7 @@ pasqualevallettavalente@gmail.com
 | clear   | Limpiar la terminal       |
 | alias   | Listar los alias          |
 
-# Estos son mis alias más usados
+## Estos son mis alias más usados
 ```bash
 mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
 ```
