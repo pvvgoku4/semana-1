@@ -22,6 +22,13 @@ Graduado del Instituto Tecnologico de Venezuela en 2003
 1. Microsoft Excel 2010 (2011)
 1. Diseño de Páginas Web (2013)
 
+## Contactos
+https://github.com/pvvgoku4
+https://www.youtube.com/channel/UCqAcRY07wXaO3445gwe6fJQ
+
+## E-mail
+pasqualevallettavalente@gmail.com
+
 # Comandos de la Terminal
 | Comando | Descripción               |
 |---------|---------------------------|
